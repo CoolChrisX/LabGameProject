@@ -1,0 +1,10 @@
+System.out.print("After spending 20 years in a highly faciliated prison\n"
+				+ "Spending time in your lonely in your cell currently you hear a loud bang and sirens go off\n"
+				+ "You see security guards rushing by your cell and by and suddenly gunfire. \nYou hear a voice on the speaker saying."
+				+ "THERE HAS BEEN A UNIDENTFIED PERSONEL BREACHING THE PRISON IN THE CAFETARIA,\n"
+				+ "ALL GUARDS MAKE THEIR WAY TO THE CAFETERIA. You hear a battle going on close to your cell, \nyou see this as a chance"
+				+ "to escape.");
+
+		System.out.print(
+				"\nYou want to escape, but you are locked in your cell, you need to find soemthing to get you out");
+		System.out.print("\nInteract with objects in your cell to make an esape");

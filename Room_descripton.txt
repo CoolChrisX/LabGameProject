@@ -1,0 +1,39 @@
+Living Room
+The small living room contains a couch, coffee table, and two
+armchairs. Pictures of various cousins adorn the walls along
+with two of your aunt's wretched attempts at oil painting. You
+can't help but notice that the carpet could use a good
+vacuuming. There is an interesting tool in here as well. 
+Doorways lead west to your father's office, north to your
+bedroom, and east to the kitchen.
+#
+Bedroom
+This is your domain and has been since your family moved here
+when you were six. A nightstand with a Superman lamp sits next
+to your twin bed. Posters of various anime characters cover one
+wall. A pile of laundry, slowly but surely attaining sentience,
+occupies the far corner. The door to the attic is in the ceiling above the pile of
+clothes. There is also this weird looking key in my room as well.
+ You can return south to the living room.
+#
+Kitchen 
+This is where all the meals, feasts, and other food 
+like resources are held. There is a flashlight, a knife laying out and
+a mysterious orb just here for an odd ball reason(no pun intended). 
+There "Garage" south from here or return back west to the LivingRoom.
+#
+Office
+This is your fathers, using the office key that was left in my Bedroom, I was
+able to get in. Office where he conducts his work, file management, and research
+is done in this space. In this office there is a fairly old computer, and a strange
+safe locked away as well. The LivingRoom is east from here if you'd like to return back. 
+#
+Garage
+This room is housing and keeping place for the car. You could return north to the Kitchen,
+if you'd like. 
+#
+Attic
+This room at the top of the house being the epitome of storage unit. All the family items
+and objects are stored here. Could use a cleaning though. If you'd like, you could return 
+south to your bedroom.
+#
